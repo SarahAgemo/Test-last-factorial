@@ -9,4 +9,4 @@ export function factorial(num) {
 }
 
 // PAIR PARTNER
-// Sarah Agemo
+// Moses Olara

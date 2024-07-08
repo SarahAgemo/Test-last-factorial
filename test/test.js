@@ -13,4 +13,4 @@ describe("Finding factorial of number", function () {
 });
 
 // PAIR PARTNER
-// Sarah Agemo
+// Moses Olara
